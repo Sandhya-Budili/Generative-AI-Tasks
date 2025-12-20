@@ -1,0 +1,11 @@
+My Observation on RAG Memory Analysis 
+
+1st I gave questions regarding the pdf I gave, It gave answers 
+relevant to my questions.
+
+I even asked Questions which are irrelevant. But for this type of questions It gave "BOT" answer as "this is not related to our conversation". And 2nd it gave answer based on its experience and knowledge.
+
+After 4-5 questions I even asked what is my 1st question,
+It gave answer "not exactly the question I gave 1st but relevant to that.
+
+All along the questions RAG maintained it's continuity and gave answers. 
